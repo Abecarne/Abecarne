@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abecarne
-- 👀 I’m interested in It science.
+- 👀 I’m interested in IT science.
 - 🌱 I’m currently learning C, C++, python.
 
 <!---
