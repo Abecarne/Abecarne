@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abecarne
 - 👀 I’m interested in IT science.
-- 🌱 I’m currently learning C, C++, python.
+- 🌱 I’m currently learning C, C++, python and web development through HTML/CSS and JS
 
 <!---
 Abecarne/Abecarne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
