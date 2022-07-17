@@ -2,14 +2,10 @@
 
 I am a 3rd year student in Epitech Lille (France).
 
-I've learned to code C, C++, Python, ASM and Haskell during my first two years [[Here]](https://github.com/Abecarne/Epitech) is a link to the repo within all my projects
+I've learned to code in C, C++, Python, ASM and Haskell during my first two years. [Here](https://github.com/Abecarne/Epitech) is a link to the repo within all my projects
 
-🌱 I’m currently learning web development through HTML/CSS and JavaScript [Here](https://github.com/Abecarne/Abecarne.github.io) is a link to a repo within my first web projects
+🌱 I’m currently learning web development through HTML/CSS and JavaScript. [Here](https://github.com/Abecarne/Abecarne.github.io) is a link to a repo within my first web projects
 
-<!---
-Abecarne/Abecarne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abecarne&hide_border=true&theme=vision-friendly-dark)]()
 
