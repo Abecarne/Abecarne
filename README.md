@@ -7,4 +7,4 @@ Abecarne/Abecarne is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Abecarne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abecarne&count_private=true&show_icons=true)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abecarne&theme=radical&hide_border=true)](https://git.io/streak-stats)
