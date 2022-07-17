@@ -13,4 +13,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abecarne&theme=radical&hide_border=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abecarne&layout=compact&theme=vision-friendly-dark)]()
 
