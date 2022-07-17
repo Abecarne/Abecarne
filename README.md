@@ -6,6 +6,7 @@ I've learned to code in C, C++, Python, ASM and Haskell during my first two year
 
 🌱 I’m currently learning web development through HTML/CSS and JavaScript. [Here](https://github.com/Abecarne/Abecarne.github.io) is a link to a repo within my first web projects
 
+[![Abecarne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abecarne&hide_border=true&theme=vision-friendly-dark)]()
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abecarne&hide_border=true&theme=vision-friendly-dark)]()
 
