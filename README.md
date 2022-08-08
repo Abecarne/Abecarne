@@ -1,3 +1,12 @@
+👋 Bonjour, moi c'est @Abecarne
+
+Je suis étudiant en 3ème année à Epitech Lille.
+
+Au fil de mes deux premières années, j'ai appris à développer en C, C++, Python, ASM et Haskell. Tu peux retrouver la quasi totalité de mes projets tek1 / tek2 [ici](https://github.com/Abecarne/Epitech).
+
+🌱 Je m'interesse actuellement au développement web au travers de challenges sur le site FrontEnd Mentor. Pour l'instant en apprentissage des langages HTML5 / CSS3 et JavaScript, tu peux voir les projets que j'ai fait pour l'instant [ici](https://github.com/Abecarne/Abecarne.github.io).
+
+______________________________________________________________________________________________________________________________________________________________________
 👋 Hi, I’m @Abecarne
 
 I am a 3rd year student in Epitech Lille (France).
