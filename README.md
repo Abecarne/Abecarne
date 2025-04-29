@@ -1,8 +1,8 @@
 
 <h1 align="center">👋 Hi, I’m @Abecarne</h1>
 
-<h3 align="center">Data & AI Developer, I'm completing my 5th year at Epitech. I'm seeking a position for september 2025 worlwide.</h3>
-<h4 align="center">I'm seeking a position for september 2025 worlwide.</h4>
+<h3 align="center">Data & AI Developer, I'm completing my 5th year at Epitech.</h3>
+<h4 align="center">Seeking a position for september 2025, I'm open to international opportunities.</h4>
 
 <h3 align="center">Languages:</h3>
 <p align="center">
