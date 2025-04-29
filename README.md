@@ -1,29 +1,75 @@
-👋 Bonjour, moi c'est @Abecarne
 
-Je suis étudiant en 5ème année à Epitech Technology.
+<h1 align="center">👋 Hi, I’m @Abecarne</h1>
 
-Je viens de terminer une année dans une université coréenne spécialisée dans le jeu vidéo, cette année m'a permis de renforcer mes compétences sur Unreal Engine, Unity, Blender et Maya.
+<h3 align="center">Data & AI Developer, I'm completing my 5th year at Epitech. I'm seeking a position for september 2025 worlwide.</h3>
+<h4 align="center">I'm seeking a position for september 2025 worlwide.</h4>
 
-Actuellement en recherche de contrat (CDD, CDI, Freelance) dans le développement, je suis ouvert à toute opportunité et prêt à rejoindre une équipe immédiatement.
+<h3 align="center">Languages:</h3>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+</p>
 
-Au fil de mes trois premières années, j'ai appris à développer en C, C++, Python, ASM et Haskell. Tu peux retrouver la quasi totalité de mes projets tek1 / tek2 [ici](https://github.com/Abecarne/Epitech).
+<h3 align="center">Data Science:</h3>
+<p align="center">
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
 
-🌱 Je m'interesse actuellement au développement web au travers de challenges sur le site FrontEnd Mentor. Pour l'instant en apprentissage des langages HTML5 / CSS3, JavaScript et React.js tu peux voir les projets que j'ai fait pour l'instant [ici](https://github.com/Abecarne/Abecarne.github.io).
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+</p>
 
-______________________________________________________________________________________________________________________________________________________________________
-👋 Hi, I’m @Abecarne
-
-I'm a 5th year student in Epitech Technology.
-
-I've just finished an university year in South Korea learning game software development, I spend my year learning how to use Unreal Engine, Unity, Blender and Maya.
-
-Currently seeking a contract job (full-time, freelance) in development, I'm open to any kind of opportunity and ready to join a team right away.
-
-I've learned to code in C, C++, Python, ASM and Haskell during my first three years. [Here](https://github.com/Abecarne/Epitech) is a link to the repo within all my projects
-
-🌱 I’m currently learning web development through HTML/CSS and JavaScript through FrontEndMentor challenges. [Here](https://github.com/Abecarne/Abecarne.github.io) is a link to a repo within my first web projects
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abecarne&hide_border=true&theme=vision-friendly-dark)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abecarne&hide_border=true&theme=vision-friendly-dark)]()
-
+<h3 align="center">Others:</h3>
+<p align="center">
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="maya" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+  </a> 
+</p>
