@@ -1,7 +1,8 @@
 
 <h1 align="center">👋 Hi, I’m @Abecarne</h1>
 
-<h3 align="center">Data & AI Developer, I'm completing my 5th year at Epitech.</h3>
+<h3 align="center">Creative Developer, I'm completing my 5th year at Epitech.</h3>
+<h3 align="center">Focused on impactful projects, I leverage my creativity and  skills in Data and Video Game to create immersive experiences</h3>
 <h4 align="center">Seeking a position for september 2025, I'm open to international opportunities.</h4>
 
 <h3 align="center">Languages:</h3>
