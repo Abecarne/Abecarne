@@ -1,9 +1,9 @@
 
 <h1 align="center">👋 Hi, I’m @Abecarne</h1>
 
-<h3 align="center">Creative Developer</h3>
-<h3 align="center">Focused on impactful projects, I leverage my creativity and  skills in Data and Video Game to create immersive experiences</h3>
-<h4 align="center">Seeking a position for september 2025, I'm open to international opportunities.</h4>
+<h3 align="center">Software Developer | Freelance </h3>
+<h3 align="center">Focused on impactful projects, I leverage my creativity and skills in Web and Video Game to create immersive experiences</h3>
+<h4 align="center"></h4>
 
 <h3 align="center">Languages:</h3>
 <p align="center">
@@ -55,9 +55,3 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
   </a> 
 </p>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abecarne&layout=compact&card_width=320" />
-  </a>
-</div>
